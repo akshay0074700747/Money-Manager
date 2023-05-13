@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "478099371178",
+    "project_id": "money-manager-df9b2",
+    "storage_bucket": "money-manager-df9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478099371178:android:35f07aad5cebf17ecd8cd3",
+        "android_client_info": {
+          "package_name": "com.example.money_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478099371178-0dmn5q15qb3q5ntvj3mguq8a6vartqne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.money_manager",
+            "certificate_hash": "b9b1d164906bac6c995e3f5e393f3092ae3894f5"
+          }
+        },
+        {
+          "client_id": "478099371178-6tvacals3mr0f3ucak82gfi40njp16k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrcuNb9QaXsZ5kxZBQLAKlPJE-QKonnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478099371178-6tvacals3mr0f3ucak82gfi40njp16k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478099371178:android:1b393bf4c8b3782dcd8cd3",
+        "android_client_info": {
+          "package_name": "com.example.moneyapp_speed_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478099371178-6tvacals3mr0f3ucak82gfi40njp16k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrcuNb9QaXsZ5kxZBQLAKlPJE-QKonnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478099371178-6tvacals3mr0f3ucak82gfi40njp16k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
